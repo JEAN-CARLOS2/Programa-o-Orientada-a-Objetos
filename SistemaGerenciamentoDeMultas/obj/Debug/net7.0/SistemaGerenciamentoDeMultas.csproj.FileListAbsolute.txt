@@ -1,0 +1,15 @@
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.csproj.AssemblyReference.cache
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.AssemblyInfoInputs.cache
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.AssemblyInfo.cs
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.csproj.CoreCompileInputs.cache
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\bin\Debug\net7.0\SistemaGerenciamentoDeMultas.exe
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\bin\Debug\net7.0\SistemaGerenciamentoDeMultas.deps.json
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\bin\Debug\net7.0\SistemaGerenciamentoDeMultas.runtimeconfig.json
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\bin\Debug\net7.0\SistemaGerenciamentoDeMultas.dll
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\bin\Debug\net7.0\SistemaGerenciamentoDeMultas.pdb
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.dll
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\refint\SistemaGerenciamentoDeMultas.dll
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.pdb
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\SistemaGerenciamentoDeMultas.genruntimeconfig.cache
+C:\Users\JEAN CARLOS\Desktop\IFRO\3 SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS\AULAS\SistemaGerenciamentoDeMultas\obj\Debug\net7.0\ref\SistemaGerenciamentoDeMultas.dll
